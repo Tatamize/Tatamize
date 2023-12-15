@@ -17,7 +17,7 @@ My portfolio as a Web designer is [here](https://portfolio-interesta.netlify.app
 I'm glad to hear from you!  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatamize&theme=vue-dark&show_icons=true&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatamize&theme=vue-dark&show_icons=true&layout=compact)
 
 
 <!-- CONTACT -->
