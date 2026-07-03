@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Hello! 
 
-Still preparing the profile... (Most of time, I'm on the GitLab) 
+Still preparing the profile... (Mon-Thu: GitLab, week-end: GitHub ) 
 
 
 <!-- CONTACT -->
